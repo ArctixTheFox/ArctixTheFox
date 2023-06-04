@@ -1,0 +1,12 @@
+# Hi, I’m @ArctixTheFox
+- Interests:
+  - Offensive Cybersecurity
+  - Malware Analysis
+  - Software Development (somewhat obvious)
+- Preferred language is C#
+- Languages I do know but definitely am not the best at
+  - Python (Kinda been a while)
+  - C/ C++ (Memory Management is a pain)
+  - GO (Not a fan of the syntax at all)
+  - Rust (Same goes)
+  - Java (Dont even)
